@@ -1,4 +1,4 @@
-CDS,CCode,CDCode,SCode,RType,SName,DName,CName,Enroll12,NumTSTTakr12,NumERWBenchmark12,PctERWBenchmark12,NumMathBenchmark12,PctMathBenchmark12,TotNumBothBenchmark12,PctBothBenchmark12,Year
+local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,county_name,enrollment_12,test_takers,avg_eng,pct_eng,avg_math,pct_math,abv_avg_both,abv_pct_both,year
 1611760000000.0,1.0,161176.0,0.0,D,,Fremont Unified,Alameda,2537.0,845.0,767,90.77,695,82.25,678,80.24,2019
 1612750000000.0,1.0,161275.0,0.0,D,,Piedmont City Unified,Alameda,231.0,78.0,68,87.18,62,79.49,61,78.21,2019
 1612910000000.0,1.0,161291.0,0.0,D,,San Leandro Unified,Alameda,754.0,193.0,138,71.5,83,43.01,77,39.9,2019

@@ -1,4 +1,4 @@
-CDS,CCode,CDCode,SCode,RType,SName,DName,CName,Enroll12,NumTSTTakr12,NumERWBenchmark12,PctERWBenchmark12,NumMathBenchmark12,PctMathBenchmark12,TotNumBothBenchmark12,PctBothBenchmark12,Year
+local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,county_name,enrollment_12,test_takers,avg_eng,pct_eng,avg_math,pct_math,abv_avg_both,abv_pct_both,year
 9000000000000.0,9.0,900000.0,0.0,C,,,El Dorado,2226.0,604.0,547,90.56,458,75.83,442,73.18,2019
 19000000000000.0,19.0,1900000.0,0.0,C,,,Los Angeles,114618.0,48676.0,30081,61.8,19791,40.66,18555,38.12,2019
 20000000000000.0,20.0,2000000.0,0.0,C,,,Madera,2352.0,442.0,277,62.67,136,30.77,127,28.73,2019

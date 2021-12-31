@@ -1,4 +1,4 @@
-CDS,CCode,CDCode,SCode,RType,SName,DName,CName,Enroll12,NumTstTakr,AvgScrRead,AvgScrEng,AvgScrMath,AvgScrSci,NumGE21,PctGE21,Year
+local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,county_name,enrollment_12,test_takers,avg_read,avg_eng,avg_math,avg_sci,abv_avg_num,abv_avg_pct,year
 1611190000000.0,1.0,161119.0,,D,,Alameda Unified,Alameda,919.0,155.0,27,26,26,25,134,86.45,2019
 1611270000000.0,1.0,161127.0,,D,,Albany City Unified,Alameda,307.0,58.0,28,27,27,26,51,87.93,2019
 1611430000000.0,1.0,161143.0,,D,,Berkeley Unified,Alameda,820.0,227.0,26,25,25,24,166,73.13,2019

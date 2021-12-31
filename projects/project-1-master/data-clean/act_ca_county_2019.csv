@@ -1,4 +1,4 @@
-CDS,CCode,CDCode,SCode,RType,SName,DName,CName,Enroll12,NumTstTakr,AvgScrRead,AvgScrEng,AvgScrMath,AvgScrSci,NumGE21,PctGE21,Year
+local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,county_name,enrollment_12,test_takers,avg_read,avg_eng,avg_math,avg_sci,abv_avg_num,abv_avg_pct,year
 34000000000000.0,34.0,0.0,0.0,C,,,Sacramento,19540.0,3065.0,21,20,21,21,1526,49.79,2019
 39000000000000.0,39.0,0.0,0.0,C,,,San Joaquin,11778.0,1348.0,22,21,21,21,693,51.41,2019
 15000000000000.0,15.0,0.0,0.0,C,,,Kern,14229.0,1257.0,21,20,20,20,544,43.28,2019
