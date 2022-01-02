@@ -1,2 +1,0 @@
-local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,county_name,enrollment_12,test_takers,avg_read,avg_eng,avg_math,avg_sci,abv_avg_num,abv_avg_pct,year
-0.0,0.0,0.0,0.0,X,State of California,State of California,State of California,489650.0,82668.0,22,22,22,22,45466,55.0,2019

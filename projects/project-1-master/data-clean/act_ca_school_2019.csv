@@ -481,7 +481,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 30665223033578.0,30.0,3066522.0,3033578.0,S,La Quinta High,Garden Grove Unified,Orange,561.0,199.0,24,25,25,23,159,79.9,2019,0
 33670583330669.0,33.0,3367058.0,3330669.0,S,La Quinta High,Desert Sands Unified,Riverside,618.0,62.0,22,20,20,21,30,48.39,2019,0
 19651281934868.0,19.0,1965128.0,1934868.0,S,La Serna High,Whittier Union High,Los Angeles,609.0,70.0,23,22,23,22,49,70.0,2019,0
-33669773330008.0,33.0,3366977.0,3330008.0,S,La Sierra High,Alvord Unified,Riverside,418.0,61.0,18,18,19,19,15,24.59,2019,1
+33669773330008.0,33.0,3366977.0,3330008.0,S,La Sierra High,Alvord Unified,Riverside,418.0,61.0,18,18,19,19,15,24.59,2019,0
 30665553033206.0,30.0,3066555.0,3033206.0,S,Laguna Beach High,Laguna Beach Unified,Orange,294.0,165.0,26,27,26,26,149,90.3,2019,0
 34673143430592.0,34.0,3467314.0,3430592.0,S,Laguna Creek High,Elk Grove Unified,Sacramento,451.0,85.0,24,23,23,23,61,71.76,2019,0
 30736353030244.0,30.0,3073635.0,3030244.0,S,Laguna Hills High,Saddleback Valley Unified,Orange,374.0,66.0,26,26,25,24,54,81.82,2019,0
@@ -933,10 +933,10 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 9618530930164.0,9.0,961853.0,930164.0,S,Union Mine High,El Dorado Union High,El Dorado,259.0,48.0,24,23,22,22,32,66.67,2019,0
 37683383730314.0,37.0,3768338.0,3730314.0,S,University City High,San Diego Unified,San Diego,459.0,115.0,27,27,26,26,101,87.83,2019,0
 10621660114553.0,10.0,1062166.0,114553.0,S,University High,Fresno Unified,Fresno,120.0,86.0,28,28,25,26,79,91.86,2019,1
-30736503035102.0,30.0,3073650.0,3035102.0,S,University High,Irvine Unified,Orange,633.0,233.0,29,29,29,28,219,93.99,2019,1
+30736503035102.0,30.0,3073650.0,3035102.0,S,University High,Irvine Unified,Orange,633.0,233.0,29,29,29,28,219,93.99,2019,0
 19647331938885.0,19.0,1964733.0,1938885.0,S,University High School Charter,Los Angeles Unified,Los Angeles,336.0,58.0,21,21,20,20,25,43.1,2019,1
 45701360106013.0,45.0,4570136.0,106013.0,S,University Preparatory,Shasta Union High,Shasta,127.0,24.0,28,27,27,27,21,87.5,2019,1
-36679340110064.0,36.0,3667934.0,110064.0,S,University Preparatory,Victor Valley Union High,San Bernardino,164.0,43.0,22,22,22,21,24,55.81,2019,1
+36679340110064.0,36.0,3667934.0,110064.0,S,University Preparatory,Victor Valley Union High,San Bernardino,164.0,43.0,22,22,22,21,24,55.81,2019,0
 43104390113431.0,43.0,4310439.0,113431.0,S,University Preparatory Academy Charter,Santa Clara County Office of Education,Santa Clara,99.0,33.0,27,28,27,27,27,81.82,2019,1
 19647330132027.0,19.0,1964733.0,132027.0,S,University Preparatory Value High,Los Angeles Unified,Los Angeles,113.0,34.0,18,16,18,18,7,20.59,2019,1
 36750693637584.0,36.0,3675069.0,3637584.0,S,Upland High,Upland Unified,San Bernardino,764.0,62.0,21,21,21,21,30,48.39,2019,0

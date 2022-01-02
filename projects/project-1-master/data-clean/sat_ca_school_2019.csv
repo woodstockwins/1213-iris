@@ -18,7 +18,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 19756636120158.0,19.0,1975663.0,6120158.0,S,New West Charter,SBE - New West Charter,Los Angeles,90.0,47.0,43,91.49,33,70.21,32,68.09,2019,1
 19757131934553.0,19.0,1975713.0,1934553.0,S,Mark Keppel High,Alhambra Unified,Los Angeles,579.0,269.0,241,89.59,230,85.5,215,79.93,2019,0
 29663572935500.0,29.0,2966357.0,2935500.0,S,Nevada Union High,Nevada Joint Union High,Nevada,353.0,89.0,78,87.64,64,71.91,62,69.66,2019,0
-30736503035102.0,30.0,3073650.0,3035102.0,S,University High,Irvine Unified,Orange,633.0,205.0,189,92.2,185,90.24,179,87.32,2019,1
+30736503035102.0,30.0,3073650.0,3035102.0,S,University High,Irvine Unified,Orange,633.0,205.0,189,92.2,185,90.24,179,87.32,2019,0
 41689244137790.0,41.0,4168924.0,4137790.0,S,Westmoor High,Jefferson Union High,San Mateo,395.0,344.0,213,61.92,169,49.13,153,44.48,2019,0
 7617960735316.0,7.0,761796.0,735316.0,S,Pinole Valley High,West Contra Costa Unified,Contra Costa,266.0,249.0,117,46.99,60,24.1,58,23.29,2019,0
 19642460100081.0,19.0,1964246.0,100081.0,S,William J. (Pete) Knight High,Antelope Valley Union High,Los Angeles,668.0,166.0,112,67.47,50,30.12,46,27.71,2019,0
@@ -442,7 +442,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 1612590136051.0,1.0,161259.0,136051.0,S,Oakland Technical High,Oakland Unified,Alameda,492.0,186.0,156,83.87,116,62.37,114,61.29,2019,0
 19647330112029.0,19.0,1964733.0,112029.0,S,School of Business and Tourism at Contreras Learning Complex,Los Angeles Unified,Los Angeles,104.0,86.0,37,43.02,17,19.77,16,18.6,2019,0
 19648810113464.0,19.0,1964881.0,113464.0,S,Aveson Global Leadership Academy,Pasadena Unified,Los Angeles,49.0,24.0,15,62.5,6,25.0,6,25.0,2019,1
-33669773330008.0,33.0,3366977.0,3330008.0,S,La Sierra High,Alvord Unified,Riverside,418.0,99.0,66,66.67,43,43.43,40,40.4,2019,1
+33669773330008.0,33.0,3366977.0,3330008.0,S,La Sierra High,Alvord Unified,Riverside,418.0,99.0,66,66.67,43,43.43,40,40.4,2019,0
 34674390101907.0,34.0,3467439.0,101907.0,S,The MET,Sacramento City Unified,Sacramento,60.0,15.0,7,46.67,3,20.0,3,20.0,2019,1
 36678500102830.0,36.0,3667850.0,102830.0,S,Wilmer Amina Carter High,Rialto Unified,San Bernardino,583.0,173.0,96,55.49,52,30.06,44,25.43,2019,0
 36678503633005.0,36.0,3667850.0,3633005.0,S,Eisenhower Senior High,Rialto Unified,San Bernardino,524.0,124.0,57,45.97,39,31.45,35,28.23,2019,0
@@ -552,7 +552,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 48705734830089.0,48.0,4870573.0,4830089.0,S,Will C. Wood High,Vacaville Unified,Solano,329.0,122.0,89,72.95,66,54.1,58,47.54,2019,0
 49706074930400.0,49.0,4970607.0,4930400.0,S,Analy High,West Sonoma County Union High,Sonoma,262.0,93.0,86,92.47,64,68.82,64,68.82,2019,0
 54722565432828.0,54.0,5472256.0,5432828.0,S,Mt. Whitney High,Visalia Unified,Tulare,397.0,101.0,68,67.33,43,42.57,41,40.59,2019,0
-48705400125310.0,48.0,4870540.0,125310.0,S,Public Safety Academy,Fairfield-Suisun Unified,Solano,79.0,32.0,23,71.88,18,56.25,16,50.0,2019,1
+48705400125310.0,48.0,4870540.0,125310.0,S,Public Safety Academy,Fairfield-Suisun Unified,Solano,79.0,32.0,23,71.88,18,56.25,16,50.0,2019,0
 10621661032507.0,10.0,1062166.0,1032507.0,S,Fresno High,Fresno Unified,Fresno,442.0,91.0,43,47.25,9,9.89,8,8.79,2019,0
 33671733330818.0,33.0,3367173.0,3330818.0,S,Desert Hot Springs High,Palm Springs Unified,Riverside,417.0,82.0,48,58.54,16,19.51,15,18.29,2019,0
 43694840114496.0,43.0,4369484.0,114496.0,S,Dr. TJ Owens Gilroy Early College Academy,Gilroy Unified,Santa Clara,64.0,55.0,50,90.91,43,78.18,41,74.55,2019,0
@@ -582,7 +582,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 19651281937903.0,19.0,1965128.0,1937903.0,S,Santa Fe High,Whittier Union High,Los Angeles,521.0,264.0,189,71.59,106,40.15,99,37.5,2019,0
 19651281939701.0,19.0,1965128.0,1939701.0,S,Whittier High,Whittier Union High,Los Angeles,432.0,266.0,155,58.27,106,39.85,93,34.96,2019,0
 19651361933902.0,19.0,1965136.0,1933902.0,S,William S. Hart High,William S. Hart Union High,Los Angeles,540.0,208.0,179,86.06,147,70.67,139,66.83,2019,0
-36679340110064.0,36.0,3667934.0,110064.0,S,University Preparatory,Victor Valley Union High,San Bernardino,164.0,109.0,96,88.07,66,60.55,65,59.63,2019,1
+36679340110064.0,36.0,3667934.0,110064.0,S,University Preparatory,Victor Valley Union High,San Bernardino,164.0,109.0,96,88.07,66,60.55,65,59.63,2019,0
 9618530930164.0,9.0,961853.0,930164.0,S,Union Mine High,El Dorado Union High,El Dorado,259.0,63.0,54,85.71,45,71.43,40,63.49,2019,0
 9618530936302.0,9.0,961853.0,936302.0,S,Ponderosa High,El Dorado Union High,El Dorado,420.0,138.0,125,90.58,111,80.43,108,78.26,2019,0
 9619030937805.0,9.0,961903.0,937805.0,S,South Tahoe High,Lake Tahoe Unified,El Dorado,239.0,54.0,43,79.63,30,55.56,28,51.85,2019,0
@@ -632,7 +632,7 @@ local_id,county_id,county_dist_id,school_id,record_type,school_name,dist_name,co
 7616300731125.0,7.0,761630.0,731125.0,S,Campolindo High,Acalanes Union High,Contra Costa,340.0,97.0,97,100.0,77,79.38,77,79.38,2019,0
 19646831930080.0,19.0,1964683.0,1930080.0,S,Agoura High,Las Virgenes Unified,Los Angeles,459.0,134.0,124,92.54,111,82.84,109,81.34,2019,0
 19647090100602.0,19.0,1964709.0,100602.0,S,"Lennox Mathematics, Science and Technology Academy",Lennox,Los Angeles,143.0,144.0,84,58.33,56,38.89,54,37.5,2019,1
-28662662830115.0,28.0,2866266.0,2830115.0,S,New Technology High,Napa Valley Unified,Napa,97.0,29.0,24,82.76,17,58.62,15,51.72,2019,1
+28662662830115.0,28.0,2866266.0,2830115.0,S,New Technology High,Napa Valley Unified,Napa,97.0,29.0,24,82.76,17,58.62,15,51.72,2019,0
 33736763330990.0,33.0,3373676.0,3330990.0,S,Coachella Valley High,Coachella Valley Unified,Riverside,607.0,168.0,86,51.19,49,29.17,45,26.79,2019,0
 1612340130054.0,1.0,161234.0,130054.0,S,Newark Memorial High,Newark Unified,Alameda,397.0,141.0,107,75.89,66,46.81,64,45.39,2019,0
 19647330100750.0,19.0,1964733.0,100750.0,S,Wallis Annenberg High,Los Angeles Unified,Los Angeles,98.0,96.0,28,29.17,12,12.5,9,9.38,2019,1
