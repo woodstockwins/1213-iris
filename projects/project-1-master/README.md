@@ -3,7 +3,7 @@
 ### Overview
 
 ### This Project will explore standardized test scores in California:
-- How do Charter schools and Public school test scores compare.
+- How do Charter school and Public school test scores compare.
 - Where are the most affordable Counties in Calfiornia to live with good schools?
 - Where are the top ranked Counties in California ranked by standardized test scores?
 
@@ -38,9 +38,9 @@ Lastly, the United States Census Bureau generously indexed all the cities, count
 
 - Cleaned data are stored in the './data-clean/ directory after working its way thru the 0_school_parse.ipynb Notebook.
 
-- The Notebooks (described above) used to clean, analyse, and visualize the data are stored in the './code/' directory.
-
 - Images used in the 'choosing_education.pdf' slide-deck are saved in the './images/' directory.
+
+- Data dictonary is located at the bottom of 0_school_parse.ipynb
 
 
 ### Takeaway Nugget:
