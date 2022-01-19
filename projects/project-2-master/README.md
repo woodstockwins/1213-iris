@@ -8,21 +8,22 @@
 
 ___
 ### Problem statement
-#### Determine the scope of renovation necessary for a house flipper to maximize profits.
+Determine the scope of renovation necessary for a house flipper to maximize profits.
 
 ### Target audience
-#### Investors in the year 2010 (home foreclosure crisis) looking for quality and 'safe' business opportunities.
+Investors in the year 2010 (home foreclosure crisis) looking for quality and 'safe' business opportunities.
 ---
 
 ### Kaggle
 [Leaderboard](https://www.kaggle.com/c/dsir1213/leaderboard)
 
 ### Data & Submission Files
-[Train data](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/datasets/train.csv)
-[Original data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
-[Test data](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/datasets/test.csv)
-[Test data model predictions](https://git.generalassemb.ly/genewoodstock/submissions/tree/master/projects/project-2-master/submissions)
-[Test data model pred description](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/submissions/submit_log.xlsx)
+- [Train data](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/datasets/train.csv)
+- [Original data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
+- [Test data](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/datasets/test.csv)
+- [Test data model predictions](https://git.generalassemb.ly/genewoodstock/submissions/tree/master/projects/project-2-master/submissions)
+- [Test data model pred description](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/submissions/submit_log.xlsx)
+
 
 ---
 ### [Data Cleaning & EDA](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/0_data_cleaning.ipynb)
@@ -33,10 +34,9 @@ ___
 
 ### [Feature Analysis & Modeling](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/1_feature_selection.ipynb)
 - **Model Selection is limited to Linear, Lasso, and Ridge regression** 
-- [Null model](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/null_model.ipynb) return a root mean squared error of $79,239
+- [Null model](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/null_model.ipynb) returns a root mean squared error of $79,239
 - R2 is of course, 0
 - Features explored and ultimately selected
-#### I will use RMSE & R2 as my evaluation metrics throughout the project. Both metrics will be calculated on the train set and test set. As always, the objective is to minimize RMSE and maximize R2. Ideally, the train & test set will return similar scores for both metrics.
 
 ### [Business Insights](https://git.generalassemb.ly/genewoodstock/submissions/blob/70609b8f7ffae3bd718cc20697d11a209956de3e/projects/project-2-master/2_house_flipping.ipynb)
 - Model is deployed for the purpose of assisting in profit maximization
