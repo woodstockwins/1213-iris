@@ -8,10 +8,13 @@
 
 ___
 ### Problem statement
+
 Determine the scope of renovation necessary for a house flipper to maximize profits.
 
 ### Target audience
-Investors in the year 2010 (home foreclosure crisis) looking for quality and 'safe' business opportunities.
+
+Real estate investors during the home foreclosure crisis in 2010 looking for quality and 'safe' business opportunities.
+
 ---
 
 ### Kaggle
