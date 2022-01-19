@@ -1,6 +1,7 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 ## Flipping Easy Real Estate Co 
 (a fictonal, but also flipping fantastic)
+#
 by Gene Woodstock, Data Scientist
 
 ### Objective
