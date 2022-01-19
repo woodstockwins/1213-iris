@@ -1,8 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 by Gene Woodstock, Data Scientist
 
-## Overview
-
 ### Objective
 - Explore the relationship between house features sales price
 - Provide business insights from model results
