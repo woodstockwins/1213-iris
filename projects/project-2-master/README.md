@@ -9,7 +9,7 @@ Welcome to Project 2! Let's model!
 
 You are tasked with creating a machine learning model based on the Ames Housing Dataset. This model will predict the price of a property at sale.
 
-The Ames Housing Dataset is contains over 70 columns of different features relating to houses.
+The Ames Housing Dataset contains over 70 columns of different features relating to houses.
 
 ---
 ## Deliverables 
@@ -38,7 +38,7 @@ Before you begin working on this project, please do the following:
     - cross-validation / grid searching for hyperparameters
     - exploratory data analysis to find relationships
     - code that reproducibly and consistently applies feature transformations
-We suggest starting your modeling with a few numeric columns that are highly correlated with the target.
+    - We suggest starting your modeling with a few numeric columns that are highly correlated with the target.
 3. Predict the values for your target column in the test dataset and submit your predictions to Kaggle to see how your model does against unseen data.
     - **Note**: Kaggle expects to see your submissions in a specific format. Check the challenge's page to make sure you are formatting your CSVs correctly!
     - **You are limited to models you've learned in class**. In other words, you cannot use XGBoost, Neural Networks or any other model we haven't seen in class for this project.
@@ -120,7 +120,7 @@ Your local instructor will evaluate your project (for the most part) using the f
 **Evaluation and Conceptual Understanding**
 - Does the student accurately identify and explain the baseline score?
 - Does the student select and use metrics relevant to the problem statement?
-- Is more than one metric uses to better assess performance?
+- Is more than one metric used to better assess performance?
 - Does the student correctly interpret the results of their model for purposes of inference?
 
 **Conclusion and Recommendations**
