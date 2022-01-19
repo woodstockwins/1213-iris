@@ -1,4 +1,5 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
+by Gene Woodstock, Data Scientist
 
 ## Overview
 
@@ -53,3 +54,4 @@ Real estate investors during the home foreclosure crisis in 2010 looking for qua
 ---
 
 Thank you for taking the time to check out my work! I hope you find the insights useful and thought provoking.
+- Gene Woodstock
